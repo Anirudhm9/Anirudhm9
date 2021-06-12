@@ -14,10 +14,10 @@
     </div>
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-        <img alt="Anirudh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anirudhm9&show_icons=true&theme=radical&count_private=true&hide_border=true" width="45%"/>
+        <img alt="Anirudh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Anirudhm9&show_icons=true&theme=radical&count_private=true&hide_border=true" width="49%"/>
       </a>  
       <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-        <img alt="Anirudh's GitHub stats" src="http://github-readme-streak-stats.herokuapp.com?user=Anirudhm9&theme=radical&hide_border=true" width="45%"/>
+        <img alt="Anirudh's GitHub stats" src="http://github-readme-streak-stats.herokuapp.com?user=Anirudhm9&theme=radical&hide_border=true" width="49%"/>
       </a>
     </div>
   </body>
