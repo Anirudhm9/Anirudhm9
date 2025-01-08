@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-- 💻 Software Engineer at Avertro 
+- 💻 Software Engineering Manager at Avertro 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning AWS
 - 💬 Ask me about Avertro
-- 📫 Reach me at anirudh0549@gmail.com
 <html>
   <body>
     <div>
