@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
-- 💻 Software Engineering Manager at Avertro 
+- 💻 Senior Software Engineer at Canva 
 - 🔭 I’m currently working on something cool!
 - 💬 Ask me about Avertro
 <html>
