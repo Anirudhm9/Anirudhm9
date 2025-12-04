@@ -2,7 +2,7 @@
 
 - 💻 Senior Software Engineer at Canva 
 - 🔭 I’m currently working on something cool!
-- 💬 Ask me about Avertro
+
 <html>
   <body>
     <div>
